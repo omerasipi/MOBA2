@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "79FA2ECE1AEA8801A56B45AA"
+               BuildableName = "ListByUrl_P11.app"
+               BlueprintName = "ListByUrl_P11"
+               ReferencedContainer = "container:ListByUrl_P11.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "79FA2ECE1AEA8801A56B45AA"
+            BuildableName = "ListByUrl_P11.app"
+            BlueprintName = "ListByUrl_P11"
+            ReferencedContainer = "container:ListByUrl_P11.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dface40c-b7eb-4ba4-8dc5-43f15539ac24" name="Changes" comment="Okay now its done fr fr (this is what i meant)" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MNcClAzw7AP53TUH7J89CCGuaL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/armandoshala/Library/Mobile Documents/com~apple~CloudDocs/Development/zhaw/AppCode/MOBA2_FS23/2-practice/create-react-app&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/armandoshala/Library/Mobile Documents/com~apple~CloudDocs/Development/zhaw/AppCode/MOBA2_FS23/2-practice/create-react-app/node_modules/prettier&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/armandoshala/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/223.8617.44/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;/Users/armandoshala/Library/Mobile Documents/com~apple~CloudDocs/Development/zhaw/AppCode/MOBA2_FS23/2-practice/create-react-app/traffic_lights_simulator/src/trafficLightCasing/trafficLightCasing.js&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/traffic_lights_simulator/src/trafficLight" />
+      <recent name="$PROJECT_DIR$/traffic_lights_simulator/src/light" />
+      <recent name="$PROJECT_DIR$/traffic_lights_simulator/src/trash" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dface40c-b7eb-4ba4-8dc5-43f15539ac24" name="Changes" comment="" />
+      <created>1677611355397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677611355397</updated>
+      <workItem from="1677611359673" duration="9572000" />
+    </task>
+    <task id="LOCAL-00001" summary="P02 done (traffic light simulator)">
+      <created>1677621497852</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677621497852</updated>
+    </task>
+    <task id="LOCAL-00002" summary="P02 done (traffic light simulator)">
+      <created>1677621729981</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677621729981</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Okay now its done fr (I feel like a designer)">
+      <created>1677623515711</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677623515711</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Okay now its done fr fr (this is what i meant)">
+      <created>1677623575133</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677623575133</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="P02 done (traffic light simulator)" />
+    <MESSAGE value="Okay now its done fr (I feel like a designer)" />
+    <MESSAGE value="Okay now its done fr fr (this is what i meant)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Okay now its done fr fr (this is what i meant)" />
+  </component>
+</project>

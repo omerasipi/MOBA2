@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c04b145-8afa-4cce-9c55-ae71e69042f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../4-practice/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-practice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-practice/practice5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-practice/practice5/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-practice/practice5/DetailPage/DetailPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-practice/practice5/MainPage/MainPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-practice/practice5/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-practice/practice5/assets/adaptive-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-practice/practice5/assets/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-practice/practice5/assets/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-practice/practice5/assets/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-practice/practice5/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-practice/practice5/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-practice/practice5/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-practice/practice5/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-practice/practice5/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameOfLifeApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameOfLifeApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameOfLifeApp/.idea/xcode.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ContentView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageModel.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreviewContent.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestTT.xcodeproj/xcuserdata/armandoshala.xcuserdatad/xcschemes/Unnamed.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestTT.xcodeproj/xcuserdata/armandoshala.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestTT2/ImageModel.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestTT2/MyFile.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestTT2/TestTT2.xcodeproj/xcuserdata/armandoshala.xcuserdatad/xcschemes/TestTT2.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestTT2/TestTT2.xcodeproj/xcuserdata/armandoshala.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_FC1E67A4-B081-47B3-99AE-2CF9EB198645" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="AppCode" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PEJ6bXCNbUxHlIsOPZ5EwxnE12" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "OBJC.PRESERVED_TARGET_SELECTION": "TestTT",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/armandoshala/Library/Mobile Documents/com~apple~CloudDocs/Development/zhaw/AppCode/MOBA2_FS23/TestTT",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="AppleRunConfiguration" factoryName="Application" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TestTT" TARGET_NAME="TestTT" CONFIG_NAME="Debug" IS_LOCATION_SIMULATION_SUPPORTED="true" SCHEME_NAME="Unnamed" IS_LOCATION_SIMULATION_ALLOWED="true" LOCATION_SCENARIO_ID="com.apple.dt.IDEFoundation.CurrentLocationScenarioIdentifier" LOCATION_SCENARIO_TYPE="1" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" RUN_TARGET_PROJECT_NAME="TestTT" RUN_TARGET_NAME="TestTT" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <embedded_app_extension_list />
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c04b145-8afa-4cce-9c55-ae71e69042f9" name="Changes" comment="" />
+      <created>1683016133802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683016133802</updated>
+      <workItem from="1683016135322" duration="3062000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

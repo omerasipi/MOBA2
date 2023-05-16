@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "79FA28A413D20D4F17CED949"
+               BuildableName = "ListByUrlWIthDetails_P12.app"
+               BlueprintName = "ListByUrlWIthDetails_P12"
+               ReferencedContainer = "container:ListByUrlWIthDetails_P12.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "79FA28A413D20D4F17CED949"
+            BuildableName = "ListByUrlWIthDetails_P12.app"
+            BlueprintName = "ListByUrlWIthDetails_P12"
+            ReferencedContainer = "container:ListByUrlWIthDetails_P12.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
